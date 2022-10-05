@@ -1,0 +1,2 @@
+# ProcesosFinishingSchool
+BMP en bonitasoft
